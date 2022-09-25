@@ -5,6 +5,7 @@ import Button from '../components/Button';
 const styles = StyleSheet.create({
   buttonView: {position: 'absolute', bottom: 30, alignSelf: 'center'},
   image: {height: '100%', width: '100%'},
+  text: {color: 'blue'},
 });
 
 const Main = () => {
